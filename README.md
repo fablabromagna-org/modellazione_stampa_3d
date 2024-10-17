@@ -17,3 +17,8 @@ Si potranno comunque delle indicizzazioni diverse all'interno del presente READM
 | Modello | Autore | Riferimento/Note |
 | --- | --- | --- |
 | [Scatola parametrica](modelli3d_fusion/Mattia/Scatola_parametrica_configurabile.f3z) | Mattia Pacini | Prima data  - scatola con coperchio ad incastro  |
+
+
+
+## Contribuire a questo repository
+Per contribuire a questo repository valgono le regole generali descritte a [questo link](https://github.com/fablabromagna-org/fablabromagna-rules)
