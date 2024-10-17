@@ -13,6 +13,7 @@ Si potranno comunque delle indicizzazioni diverse all'interno del presente READM
 
 ### Corso Autodesk Fusion Ottobre 2024
 
+
 | Modello | Autore | Riferimento/Note |
-| --- | --- |
+| --- | --- | --- |
 | [Scatola parametrica](modelli3d_fusion/Scatola_parametrica_configurabile.f3z) | Mattia Pacini | Corso Fusion Ottobre 2024 |
