@@ -15,4 +15,8 @@ Si potranno comunque delle indicizzazioni diverse all'interno del presente READM
 
 | Modello | Autore | Riferimento/Note |
 | --- | --- |
-| [Scatola parametrica](modelli3d_fusion/Scatola_parametrica_configurabile.f3z) | Mattia Pacini | Corso Fusion Ottobre 2024 |
+| [Scatola parametrica](modelli3d_fusion/Scatola_parametrica_configurabile.f3z) | Mattia Pacini | Corso Fusion Ottobre 2024 - Parte 1|
+| [Scatola parametrica - versione FreeCAD]modelli3d_freecad/Ivan/scatola_parametrica.FCStd) | TIvan | Test Configurazioni - Parte 1 |
+
+
+
